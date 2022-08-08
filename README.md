@@ -8,7 +8,7 @@ disciplina **pensamento computacionaal**
 
 desenvolvimento de site nas linguagens HTML e CSS
 
-estudante: nathalia ramos de lima  n *21*
+estudante: *nathalia ramos de lima*  n *21*
 
 
-estudante: matheus gabriel de lima  n *44*
+estudante: *matheus gabriel de lima*  n *44*
